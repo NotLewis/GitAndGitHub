@@ -1,4 +1,4 @@
-# Git and GitHub Change1
+# Git and GitHub Change2
 
 This is a speedy how-to, intended on getting you started with GitHub.
 
