@@ -1,5 +1,7 @@
 # Git and GitHub CHANGE CHANGE
 
+DUDE I DON'T GET IT
+
 This is a speedy how-to, intended on getting you started with GitHub. 
 
 1. Check accounts needed:
