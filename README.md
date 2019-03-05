@@ -1,5 +1,8 @@
 # Git and GitHub CHANGE
 
+
+YOU SMELL OF POO 💩 
+
 This is a speedy how-to, intended on getting you started with GitHub. 
 
 1. Check accounts needed:
